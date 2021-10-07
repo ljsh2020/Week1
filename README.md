@@ -1,3 +1,3 @@
 # Week1
-# I finished the first question (apple).
+# I finished the first and second question.
 # Here is my code.
